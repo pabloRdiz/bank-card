@@ -1,0 +1,18 @@
+.app-container {
+  align-items: center;
+  background: #eee;
+  display: flex;
+  flex-flow: column;
+  /* justify-content: center; */
+  margin-bottom: 60px;
+  min-height: 100vh;
+  width: 50%;
+  margin: auto;
+}
+.flip-button {
+  border: 1px solid black;
+  /* padding: 8px; */
+  font-weight: bold;
+  background-color: lightgoldenrodyellow;
+  /* margin: 8px; */
+}
